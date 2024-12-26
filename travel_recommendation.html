@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Recommendation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <ul class="nav-links">
+        <li><a href="travel_recommendation.html">Home</a></li>
+        <li><a href="about_us.html">About Us</a></li>
+        <li><a href="contact_us.html">Contact Us</a></li>
+      </ul>
+      <div class="search-container">
+        <input type="text" id="searchBar" placeholder="Enter keywords to search">
+        <button id="searchButton">Search</button>
+        <button id="resetButton">Reset</button>
+      </div>
+    </nav>
+  </header>
+  <section class="hero">
+    <div class="overlay">
+      <h1>Explore Dream Destination</h1>
+      <p>
+        Encourage exploration, cultural services, and enjoyment of scenic landscapes while pursuing the perfect destination that captures the true essence of wonder.
+      </p>
+      <button class="book-now">Book Now</button>
+    </div>
+    <div class="overlay">
+      <section id="results" class="results-section"></section>
+      <section id="time-container" class="time-section">
+        <h2>Current Time in Recommended Destinations</h2>
+      </section>
+    </div>
+  </section>
+  <script src="travel_recommendation.js"></script>
+</body>
+</html>

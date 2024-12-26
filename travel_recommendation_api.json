@@ -1,0 +1,81 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sídney, Australia",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sydney_Opera_House_-_Dec_2008.jpg",
+            "description": "Una ciudad vibrante conocida por sus emblemáticos lugares como la Ópera de Sídney y el Puente del Puerto de Sídney."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Melbourne_skyline_and_Yarra_River.jpg",
+            "description": "Un centro cultural famoso por su arte, gastronomía y barrios diversos."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japón",
+        "cities": [
+          {
+            "name": "Tokio, Japón",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tokyo_Tower_and_around_Skyscrapers.jpg",
+            "description": "Una metrópolis bulliciosa que combina tradición y modernidad, famosa por sus cerezos en flor y rica cultura."
+          },
+          {
+            "name": "Kioto, Japón",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kiyomizu-dera_in_Kyoto.jpg",
+            "description": "Conocida por sus templos históricos, jardines y casas de té tradicionales."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brasil",
+        "cities": [
+          {
+            "name": "Río de Janeiro, Brasil",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rio_de_Janeiro_view_from_Corcovado.jpg",
+            "description": "Una ciudad animada conocida por sus impresionantes playas, vibrantes celebraciones de carnaval y lugares emblemáticos."
+          },
+          {
+            "name": "São Paulo, Brasil",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sao_Paulo_Marginal_Pinheiros.jpg",
+            "description": "El centro financiero con una cultura diversa, artes y una vibrante vida nocturna."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Camboya",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Angkor_Wat_temple.jpg",
+        "description": "Un sitio del Patrimonio Mundial de la UNESCO y el monumento religioso más grande del mundo."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_in_March_2004.jpg",
+        "description": "Un símbolo icónico del amor y una obra maestra de la arquitectura mogol."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, Polinesia Francesa",
+        "imageUrl": "https://cdn.luxuryhotel.world/file/hotcdn/hotel/cover/456450_1709010754.jpg",
+        "description": "Una isla conocida por sus impresionantes aguas turquesas y lujosos bungalows sobre el agua."
+      },
+      {
+        "id": 2,
+        "name": "Playa de Copacabana, Brasil",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Copacabana_Beach_Rio_de_Janeiro.jpg",
+        "description": "Una playa famosa en Río de Janeiro, Brasil, con un ambiente vibrante y vistas panorámicas."
+      }
+    ]
+  }
+  
